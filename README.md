@@ -1,4 +1,4 @@
-# Guided Project: Analyzing CIA Factbook Data Using SQL
+# Analyzing CIA Factbook Data Using SQL
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aolives/Analyzing-CIA-Factbook-Data/HEAD)
 
