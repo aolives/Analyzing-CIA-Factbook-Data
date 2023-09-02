@@ -1,5 +1,7 @@
 # Guided Project: Analyzing CIA Factbook Data Using SQL
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aolives/Analyzing-CIA-Factbook-Data/HEAD)
+
 In this project, we'll work with data from the CIA World Factbook, a compendium of statistics about all of the countries on Earth. The Factbook contains demographic information like the following:
 
 - population — the global population
